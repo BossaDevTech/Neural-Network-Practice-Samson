@@ -4,6 +4,8 @@
     - Spring Framework Application
     - Android Application Development
     - React for Web Application
+    - React Native for Mobile Application
+    - AI/ML Models Development
     - Microservices Architecture Design Principles
     - Azure Cloud DevOps
     - Containerization with Docker and Kubernetes
